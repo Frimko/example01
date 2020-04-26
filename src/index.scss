@@ -1,0 +1,9 @@
+@import "~bootstrap/scss/bootstrap";
+
+body,html, #root {
+  height: 100%;
+}
+
+.btn:disabled {
+  pointer-events: none;
+}

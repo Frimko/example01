@@ -1,0 +1,4 @@
+build/**
+public/**
+server/**
+react-app-env.d.ts
